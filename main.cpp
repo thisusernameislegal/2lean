@@ -1,6 +1,9 @@
 #include <iostream>
 #include "Simplifier.hpp"
 
+// Author Edison Widjaja
+// Hans Sebastian
+
 int main2(void){
     std::cout << "Hello user\nPress Ctrl + C on your keyboard to quit.\n";
     std::string in;

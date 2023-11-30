@@ -1,6 +1,9 @@
 #pragma once
 #include "Group.hpp"
 
+// Author Rainer Dylan Elyas
+// Edison Widjaja
+
 using TokenVector = std::vector<Token>;
 
 struct Lexer {

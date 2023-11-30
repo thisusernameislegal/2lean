@@ -14,6 +14,9 @@
 #include <bits/ranges_algo.h>
 #include <ranges>
 
+// Author Vincent Liem
+// Hans Sebastian
+
 #define UNREACHABLE std::cerr << "At file: " << __FILE__ << ":\n" << __LINE__ << " at " << __FUNCTION__ <<  " | UNREACHABLE " << std::endl, exit(1)
 #define TODO(x) std::cerr << "At file: " << __FILE__ << ":\n" << __LINE__ << " at " << __FUNCTION__ << " | NOT IMPLEMENTED: " << x << std::endl, exit(-1)
 

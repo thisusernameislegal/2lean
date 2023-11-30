@@ -3,6 +3,11 @@
 #include "NewLexer.hpp"
 #include "NewSanitizer.hpp"
 
+// Author Rainer Dylan Elyas
+// Johan Iswara
+// Vincent Liem
+// Hans Sebastian
+
 #include <unistd.h>
 #include <iomanip>
 #include <limits>
