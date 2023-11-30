@@ -115,4 +115,3 @@ std::ostream& operator<<(std::ostream& os, const Token& expr){
     os << ", Value: " << expr.value << ']';
     return os;
 }
-    

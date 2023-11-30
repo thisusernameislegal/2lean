@@ -424,8 +424,6 @@ class Simplifier {
         return tvstack.top();   
     }
 
-
-
     TokenVector get_postfix(TokenQueue& q) {
         std::stack<Token> stack;
         TokenVector output_vec;
@@ -526,7 +524,6 @@ class Simplifier {
             std::cout << std::endl;
             
             // std::cout << minimize(standardized) << '\n';
-            std::cout <<  << std::endl;
 
             unique_variables.clear();
             return true;
